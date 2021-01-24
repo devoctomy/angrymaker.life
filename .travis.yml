@@ -1,27 +1,30 @@
 os: linux
 dist: bionic
-
 language: ruby
 rvm: 3.0.0
-
 cache: bundler
-
 addons:
   apt:
     packages:
-      - libcurl4-openssl-dev # required to avoid SSL error (for htmlproofer)
-
+    - libcurl4-openssl-dev
 before_script:
 - chmod +x ./script/cibuild
-
 script: "./script/cibuild"
-
 branches:
   only: main
-
 git:
-  depth: false # for posts lastmod
-
+  depth: false
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+deploy:
+  provider: s3
+  access_key_id: AKIAVHZ4DGU5R3C5R2CE
+  secret_access_key:
+    secure: VWaJH0q+iizVzkaRFiQdzVPYsge2HrTmZd1hRCSuSwwkRoJXv9dem7Ps7E/SyfiU80Udgs1jUNCmbc6jnY60d5IQCjXGCvCAmGxYvu/of/JSJLyvWqv04/YL2HyGCl3Sog+RRfbTIftj5yHfdNuSQDpI2JJKYcnSClhKzWnx+sshMzNygYtPBU3vJkdSMwYM5i48+VIPXCshYEv4QSjQfATALLF04GLG+W1+O0aGFS5EzTlNaBiIxz3tQNVVNjAqN4hxEB9zIdest2tV/PClsUTFEU7X45K8E5FsskSYE5ulvgUrh7Em+Bcxl0X6II4nFBZLiYEtXnLCF9tYdUSp0nNHLikUD06YH/aFfZkV2EgeEMO03VwuYkHQDTDmlOuOO0sSIV0yJKTZ8NqA0++Hp7MgWdMloj3jtDb/6DA4zgrp/tF48uvgkxEkAfAyJos5VbKaRfUwqa/r8Ucniz8Ki3I1Y5UOvhUid1QhBbEUAW6yIFQmty/ySBmVRVUYj2G4sBnc0THMvDDRPLj6VSh78ebifdmwSes8kGqfLl7phvnxx6pZZ6EgAZdG/MlU2LjriCtFe0OyR9FkapU2RPWs9zZCYQ70SH9DoEVpVPMBX3iqaUXaXo/dToRYPPt+yxPgIQLVd7lF877s2xr+ktKD0PyTgYKEeRa3S9vsCz/WCUQ=
+  bucket: www.angrymaker.life
+  local-dir: _site
+  acl: public_read
+  on:
+    repo: devoctomy/angrymaker.life
+  skip_cleanup: 'true'
