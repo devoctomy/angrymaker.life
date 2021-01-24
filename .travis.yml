@@ -29,3 +29,4 @@ deploy:
     repo: devoctomy/angrymaker.life
     branch: main
   skip_cleanup: 'true'
+  region: eu-west-1
