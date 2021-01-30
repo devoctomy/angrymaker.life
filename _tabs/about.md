@@ -23,3 +23,5 @@ I hope to fill this site out with all kinds of things that I think other people 
 ## Why so angry?
 
 Well, in all honesty, I'm not *that* angry, I just swear lots when I don't get my way, and couldn't think of a better name for this blog!
+
+![CUUUNNNNN...](/assets/img/angry.gif)
