@@ -10,5 +10,16 @@ order: 4
 # MIT License
 ---
 
+## Who, what, where?
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+Well hello there, I'm guessing by the fact that you clicked on "About" that you wanted to know something about me? Or maybe you didn't, in which case you're shit out of luck. I won't write much though as that's not really relevant to this site.
+
+My name's Nick and I live on the south coast of England. I work as a Software Engineer, but as of late I have been getting more creative with my use of free time, I had to quit drinking in order to do so, but that's another story.
+
+I have dedicated a room in my house as a workshop for all the creative shit that I plan on doing, from 3d printing projects, electronics and various other miscellaneous bodgings.
+
+I hope to fill this site out with all kinds of things that I think other people might be interested in, and I don't have the charmisma to be an interesting YouTuber, nor desire to suffer the wrather of the comments section. So welcome to my musings...
+
+## Why so angry?
+
+Well, in all honesty, I'm not *that* angry, I just swear lots when I don't get my way, and couldn't think of a better name for this blog!

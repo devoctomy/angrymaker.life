@@ -9,7 +9,7 @@
 # --------------------------
 title: angrymaker.life                          # the main title
 
-tagline: A blog of my bodgings          # it will display as the sub-title
+tagline: Making shit, one swear at a time          # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog regarding my projects,
@@ -87,7 +87,7 @@ theme_mode: dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/angry.gif
 
 # boolean type, the global switch for ToC in posts.
 toc: true
