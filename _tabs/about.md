@@ -16,9 +16,9 @@ Well hello there, I'm guessing by the fact that you clicked on "About" that you 
 
 My name's Nick and I live on the south coast of England. I work as a Software Engineer, but as of late I have been getting more creative with my use of free time, I had to quit drinking in order to do so, but that's another story.
 
-I have dedicated a room in my house as a workshop for all the creative shit that I plan on doing, from 3d printing projects, electronics and various other miscellaneous bodgings.
+I have dedicated a room in my house as a workshop for all the creative shit that I plan on doing, and am hoping that this commitment will help keep my attention on this whole episode of my life, from 3d printing projects, electronics and various other miscellaneous bodgings.
 
-I hope to fill this site out with all kinds of things that I think other people might be interested in, and I don't have the charmisma to be an interesting YouTuber, nor desire to suffer the wrather of the comments section. So welcome to my musings...
+I hope to fill this site out with all kinds of things that I think other people might be interested in, and I don't have the charmisma to be an interesting YouTuber, nor desire to suffer the wrath of the comments section. So welcome to my musings...
 
 ## Why so angry?
 
