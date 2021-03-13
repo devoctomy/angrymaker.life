@@ -2,7 +2,7 @@
 title: The Joys of Printer Calibration
 author: Nick Pateman
 date: 2021-02-14 16:26:00 +0000
-categories: [Blogging, 3dPrinting]
+categories: [Blogging,3dPrinting]
 tags: [3dprinting,calibration,problems]
 math: false
 mermaid: false
@@ -32,7 +32,7 @@ At this stage of my journey (around December 2020), even though I was getting so
 
 Installation was a breeze and thanks to the [CR6Community](https://github.com/CR6Community) GitHub and the people working wonders there (primarily [Sebastiaan Dammann](https://github.com/Sebazzz)), I was up and running again in no time... but with a lingering extrusion issue (something I was sure I could solve on my own).
 
-![Under extrusion is a bitch and will result in your printer producing things that you can literally crush with your bare hands.](/assets/img/underextrusion1.jpg)
+![Under extrusion is a bitch and will result in your printer producing things that you can literally crush with your bare hands.](/assets/img/prints/misc/underextrusion1.jpg)
 
 To cut a long story short, I have just spent the past 3 months failing to get anything to print properly out of my CR6 SE due to under extrusion, something I thought I would resolve through tweaking, but which turned out to actually be caused by a combination of my technique for e-step calibration, and a bug in Marlin, or at least the build I was using.
 
