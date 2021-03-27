@@ -28,7 +28,7 @@ As long as the 3D model has simple geometry, it's just a matter of dragging a fe
 > I won't go into too much detail of how I done that in Blender in this post as it can be a total pain in the arse if you don't know what you're doing, and I have no plan on doing Blender tutorials in this blog. Sorry!  I know right? What a cunt!
    
 
-![The mesh in Blender, in all its glory.](/assets/img/prints/useful/filtercaddy/5.jpg)
+![The mesh in Blender, in all its glory.](/assets/img/prints/misc/blender1.jpg)
 
 Just to give you the basic gist of what was done to resize this, I had to do the following,
 
