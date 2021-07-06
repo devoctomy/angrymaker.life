@@ -2,7 +2,7 @@
 layout: page
 ---
 <br/><br/>
-> Please read this cookie policy (“cookie policy”, "policy") carefully before using djabstraction.com website (“website”, "service") operated by Nick Pateman.
+> Please read this cookie policy (“cookie policy”, "policy") carefully before using angrymaker.life website (“website”, "service") operated by Nick Pateman.
 
 ## What are cookies?
 
